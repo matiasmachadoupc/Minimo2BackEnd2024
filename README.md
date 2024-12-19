@@ -1,3 +1,6 @@
+TODO FUNCIONA CORRECTAMENTE 
+
+
 Para compilar este proyecto es necesario usar la base de datos, por lo que debería instalar-se maria-db en 
 este caso i crear una base de datos llamada dsajuego i crear tres tablas:
 
